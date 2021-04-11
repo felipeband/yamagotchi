@@ -1,0 +1,2 @@
+# yamagotchi
+Yet another tamagotchi
