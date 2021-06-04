@@ -289,6 +289,8 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=AdvSimNetlistView|SimulationName=Mixed Sim|ProfileId=CUYWNPUX|OldCfgLoaded=True
 
 [OutputGroup3]
 Name=Documentation Outputs
